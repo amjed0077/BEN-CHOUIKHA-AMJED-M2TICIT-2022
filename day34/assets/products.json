@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "name": "Lost",
+            "imageURL": "assets/images/Sahara.jpg",
+            "brand": "circuit",
+            "price": 100
+        },
+        {
+            "name": "Skys à tozeur",
+            "imageURL": "assets/images/Skys.jpg",
+            "brand": "événement",
+            "price": 49
+        },
+        {
+            "name": "Bursa Istanbul",
+            "imageURL": "assets/images/Istanbul.jpg",
+            "brand": "voyage organisé",
+            "price": 58
+        },
+        {
+            "name": "Anantara",
+            "imageURL": "assets/images/Anantara.png",
+            "brand": "Hotel",
+            "price": 69
+        }
+    ]
+}
